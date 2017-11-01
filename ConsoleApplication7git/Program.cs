@@ -10,6 +10,7 @@ namespace ConsoleApplication7git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Left Tanya");
         }
     }
 }
